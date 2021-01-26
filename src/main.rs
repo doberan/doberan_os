@@ -1,5 +1,5 @@
-#![no_std]
-#![no_main]
+#![no_std] // 標準ライブラリを使用しない
+#![no_main] // 通常のエントリポイントを使用しない
 
 use core::panic::PanicInfo;
 
