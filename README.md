@@ -1,5 +1,9 @@
 # doberan_os
 
+## References
+
+<https://os.phil-opp.com/ja/freestanding-rust-binary/>
+
 ## command
 
 Preparation install
